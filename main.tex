@@ -8,17 +8,13 @@
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
-\documentclass[options]{class}\usepackage{titlesec}
+\usepackage{titlesec}
 \usepackage{marvosym}
 \usepackage[usenames,dvipsnames]{color}
 \usepackage{verbatim}
 \usepackage{enumitem}
 \usepackage{fancyhdr}
-
-\usepackage[T1]{fontenc}
-\usepackage{Alegreya} %% Option 'black' gives heavier bold face 
-\renewcommand*\oldstylenums[1]{{\AlegreyaOsF #1}}
-
+\usepackage[urw-garamond]{mathdesign}
 \RequirePackage{luatex85}
 \usepackage{pdfcomment}
 \usepackage{luacode}
@@ -50,10 +46,9 @@
 
 % Custom commands
 %-------------------------------------------
-\definecolor{light-gray}{gray}{0.3}
-\newcommand{\resumeItem}[3]{
+\newcommand{\resumeItem}[2]{
   \item{
-    \textbf{#1} \ifthenelse{\equal{#3}{}}{}{\textcolor{light-gray}{\scriptsize\texttt{#3}}} {: \small #2 \vspace{-2pt}}
+    \textbf{#1}{: \small #2 \vspace{-2pt}}
   }
 }
 
@@ -61,7 +56,7 @@
   \vspace{-1pt}\item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
-      \textit{\small\textcolor{light-gray}{#3}} & \textit{\small\textcolor{light-gray}{#4}} \\
+      \textit{#3} & \textit{#4} \\
     \end{tabular*}\vspace{-5pt}
 }
 
@@ -69,11 +64,11 @@
   \vspace{-1pt}\item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
-      \textit{\small\textcolor{light-gray}{#3 $\cdot$ #4}} & \textit{\small\textcolor{light-gray}{#5}} \\
+      \textit{#3 $\cdot$ #4} & \textit{#5} \\
     \end{tabular*}\vspace{-5pt}
 }
 
-\newcommand{\resumeSubItem}[3]{\resumeItem{#1}{#2}{#3}\vspace{-4pt}}
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
 
 \renewcommand{\labelitemii}{$\circ$}
 
@@ -87,7 +82,7 @@
 % Load lua script
 %-------------------------------------------
 \begin{luacode}
-require("_lua/parser.lua")
+require("lua/parser.lua")
 \end{luacode}
 
 % Print Heading
