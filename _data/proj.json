@@ -2,13 +2,13 @@
     {
         "title": "Module Developer, Institute MIS in IIT(ISM) Dhanbad",
         "time_duration": "Jan 2018 - March 2018",
-        "description": "Development of the Training and Placement module in the institute MIS which automates the activities of Career Development Center (CDC) online.Developing the desired features in PHP using CodeIgniter for MVC architecture. Database creation and management of the module using the tools for MariaDB.",
+        "description": "Development of the Training and Placement module in the institute MIS which automates the activities of Career Development Center (CDC) online.Developing the desired features in PHP using CodeIgniter-MVC architecture. Database creation and management of the module using the tools for MariaDB.",
         "languages": "PHP, SQL, HTML, CSS, JavaScript, Bootstrap "
     },
     {
         "title": "Hackfest, IIT ISM Dhanbad 7th Edition",
         "time_duration": "March 2018",
-        "description": "Created a web application, which has 3 modules driven by Deep Learning, which predicts the price of the crop for the next 6 months, identifies diseases in the crop, and detects weed in the Crop, with an accuracy over 95%. Uses CNN. 3rd Position in Nationwide Hackathon.",
+        "description": "Created a web application, which has 3 modules driven by Deep Learning, which predicts the price of the crop for the next 6 months, identifies diseases in the crop, and detects weed in the Crop, with an accuracy over 95\\%. Uses CNN. 3rd Position in Nationwide Hackathon.",
         "languages": "Python, Django"
     },
     {

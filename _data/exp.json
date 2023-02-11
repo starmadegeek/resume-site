@@ -4,7 +4,7 @@
         "company_location": "Gurgaon, IN",
         "role": "Software Development Engineer",
         "team": "Data Science",
-        "time_duration": "Jan 2020 - Present",
+        "time_duration": "Jan 2020 - Jan 2022",
         "details": [
         	{
                 "title": "Third Party Client Business Insights Portal",
@@ -32,27 +32,13 @@
         "details": [
             {
                 "title": "Meta channel growth",
-                "description": "Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
+                "description": "Utilised data-driven insights to optimize listings and drive bookings on online travel agencies and meta-search engines. Conducted data analysis, implemented KPIs, developed dashboards, and collaborated with cross-functional teams to drive continuous improvement and informed decision-making.",
                 "languages": "Python, R"
             },
             {
                     "title": "Dashboard management and data supply",
                     "description": "SPOC for all the online conversion and revenue related Automated Dashboards and setting up Triggers for business tracking and alerts, leading numerous RCAs and Business Insights, issues with landing pages, SEO and SEA keyword performance analysis, etc. and using other agency tools like AWS EC2, Lambda functions, GCP cloud functions and Hive data tools.",
                     "languages": "Python, R, ShellScripting, SQL, Excel, Google Analytics"
-            }
-        ]
-    },
-    {
-        "company": "Activation Functions Pvt. Ltd.",
-        "company_location": "Hyderabad, IN",
-        "role": "Software Engineering Intern",
-        "team": "Incubator",
-        "time_duration": "May 2018 - June 2018",
-        "details": [
-            {
-                "title": "Meta channel growth",
-                "description": "Activation Functions is part of T-Hub, India’s Biggest Tech Incubator for Entrepreneurship at Hyderabad. Web Application which promotes e-learning of Deep Learning.",
-                "languages": "NodeJs, ReactJs"
             }
         ]
     },
