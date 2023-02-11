@@ -1,73 +1,72 @@
 [
     {
-        "company": "Microsoft",
-        "company_location": "Redmond, WA",
-        "role": "Software Engineer",
-        "team": "OneNote",
-        "time_duration": "Jun 2016 - Present",
+        "company": "OYO Rooms",
+        "company_location": "Gurgaon, IN",
+        "role": "Software Development Engineer",
+        "team": "Data Science",
+        "time_duration": "Jan 2020 - Present",
         "details": [
         	{
-                "title": "Modern Hierarchy Sync",
-                "description": "Worked on a new sync platform which would load notebook structure and hierarchy faster than the current state of the art. Implemented client side representation of this hierarchy, derived from existing representation. Added functionality to be able use the new representation without the need of resetting cache or reloading the notebook. Built a small tool to visualize and debug this new representation.",
-                "languages":"C++ nodejs"
+                "title": "Third Party Client Business Insights Portal",
+                "description": "Responsible for API design, development, testing, code quality and deployment of RESTful services for the enterprise product in the business. Interacted with the Product team to finalize the logical flow of the API after understanding business requirements.",
+                "languages":"Springboot (Java), Python"
             },
         	{
-                "title": "Notebook Cloud Migration",
-                "description": "Componentized native code from OneNote desktop app to convert local OneNote notebooks to cloud compatible notebooks. This was used in the new SharePoint Migration Tool.",
-                "languages": "C++ C\\#"
+                "title": "Data ingestion and  migration",
+                "description": "Developed Kafka producer application to send messages from PostgresDB to Kafka topics in JSON format. Create and maintain of cronjobs to send data of all the properties downstream by publishing data using Kafka. Formulated Python scripts that migrated data into existing schema from a CSV file using pandas and psycopg2.",
+                "languages": "Springboot (Java), Python"
             },
             {
-                "title": "Magic Ink Lookup and Whiteboard App",
-                "description": "Worked on recognizing ink strokes into words (using onboard IA) and recognizing keywords/entities given the context (using custom entity recognition service). Implemented accumulation of images and interactive widgets (from various online sources) related to the keyword, to be inserted onto Whiteboard canvas. Implemented sharing experience for the new collaboration focused Whiteboard app which included creating and joining a shared session.",
-                "languages": "C++ C\\#"
-            },
-            {
-                "title": "Content Addins",
-                "description": "Implemented content addins, for OneNote desktop app, as small embedded web apps that would get hosted within managed WebView controls. Created their persistence model and rendering on the desktop app.",
-                "languages": "C++ nodejs"                
+                "title": "Miscellaneous",
+                "description": "Performed on-call duties. Leveraged project management software JIRA to track the progress of the project and Git for version control.",
+                "languages": ""
             }
         ]
     },
     {
-        "company": "Microsoft",
-        "company_location": "Vancouver, Canada",
-        "role": "Software Engineer",
-        "team": "OneNote",
-        "time_duration": "Nov 2014 - May 2016",
+        "company": "OYO Rooms",
+        "company_location": "Gurgaon, IN",
+        "role": "Data Support Engineer (Business)",
+        "team": "Conversion",
+        "time_duration": "July 2019 - Jan 2020",
         "details": [
             {
-                "title": "Embedded Videos and Web Content",
+                "title": "Meta channel growth",
                 "description": "Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
-                "languages": "C++ C\\#"
+                "languages": "Python, R"
             },
             {
-                    "title": "Merged Cells for Tables",
-                    "description": "Added support for spanned cells for tables in OneNote, keeping in mind backwards compatibility. Implemented these capabilities in OneNote web app.",
-                    "languages": "C++ C\\#"
-            },
-            {
-                "title": "Realtime Ink",
-                "description": "As a ramp up project, prototyped ink collaboration using SignalR web-sockets. Worked on experimenting load and delay with multiple inputs in realtime.",
-               	"languages": "C++ C\\#"
+                    "title": "Dashboard management and data supply",
+                    "description": "SPOC for all the online conversion and revenue related Automated Dashboards and setting up Triggers for business tracking and alerts, leading numerous RCAs and Business Insights, issues with landing pages, SEO and SEA keyword performance analysis, etc. and using other agency tools like AWS EC2, Lambda functions, GCP cloud functions and Hive data tools.",
+                    "languages": "Python, R, ShellScripting, SQL, Excel, Google Analytics"
             }
         ]
     },
     {
-        "company": "Oracle",
-        "company_location": "Bangalore, India",
+        "company": "Activation Functions Pvt. Ltd.",
+        "company_location": "Hyderabad, IN",
         "role": "Software Engineering Intern",
-        "team": "Apps for Enterprises",
-        "time_duration": "May 2013 - July 2013",
+        "team": "Incubator",
+        "time_duration": "May 2018 - June 2018",
         "details": [
             {
-                "title": "Containerization of iOS Apps",
-                "description": "Worked on sand-boxing of enterprise applications (containerization), enabling their installation on employee's iOS devices, without worrying about security concerns. Implemented wrapping of library function calls using swizzling, objective-c backend, linker flags and dynamic library injection.",
-                "languages": "Objective-C C"
-            },
+                "title": "Meta channel growth",
+                "description": "Activation Functions is part of T-Hub, India’s Biggest Tech Incubator for Entrepreneurship at Hyderabad. Web Application which promotes e-learning of Deep Learning.",
+                "languages": "NodeJs, ReactJs"
+            }
+        ]
+    },
+    {
+        "company": "Vijayawada Muncipal Corporation",
+        "company_location": "Vijayawada, IN",
+        "role": "Web development",
+        "team": "Freelancing",
+        "time_duration": "May 2018 - June 2018",
+        "details": [
             {
-                "title": "Sandboxed Browser App",
-                "description": "Built a demo browser application for iOS. Containerized the app using the custom script, for it to work only for whitelisted urls.",
-                "languages": "Objective-C"
+                "title": "Protrack: Employee management system.",
+                "description": "Developing a full stack application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC)",
+                "languages": "Springboot, MySQL, NodeJs, ReactJs, Docker"
             }
         ]
     }

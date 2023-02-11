@@ -1,39 +1,58 @@
 [
     {
-        "name": "Kumar Pallav",
-        "website": "http://kumarpallav.com",
-        "email": "me@kumarpallav.com",
-        "email2": "pforpallav@gmail.com",
-        "phone": "+1-xxx-xxx-xxxx",
-        "linkedin":"https://www.linkedin.com/in/kumar-pallav-156a1657/",
-        "facebook":"https://www.facebook.com/pforpallav",
-        "github":"https://github.com/pforpallav",
+        "name": "Nivyanth Sai Chitturi",
+        "website": "http://nivyanth.com",
+        "email": "me@nic=.com",
+        "email2": "nivyanth97@gmail.com",
+        "phone": "+91-9494560798",
+        "linkedin":"https://www.linkedin.com/in/nivyanth/",
+        "facebook":"",
+        "github":"https://github.com/starmadegeek",
         "languages": [
             {
                 "language": "C++"
             },
             {
-                "language": "C\\#"
+                "language": "Python"
             },
             {
-                "language": "JavaScript"
+                "language": "JavaScript (ES6), jQuery"
             },
             {
                 "language": "Java"
             },
             {
                 "language": "C"
+            },
+            {
+                "language": "R"
+            },
+            {
+                "language": "Dart"
+            }
+            ,
+            {
+                "language": "PHP"
+            },
+            {
+                "language": "SQL"
+            },
+            {
+                "language": "HTML, CSS"
             }
         ],
         "technologies": [
             {
-                "technology": "NodeJs"
+                "technology": "NodeJs, ReactJs, Flutter, Bootstrap"
             },
             {
-                "technology": "UWP"
+                "technology": "Spring, Spring Boot, Spring Cloud, Flask, FastAPI, Docker, RESTfull Architecture "
             },
             {
-                "technology": "Win32"
+                "technology": "AWS (EC2, Lambda), GCP, Google Analytics/BiqQuery"
+            },
+            {
+                "technology": "Windows, Linux (Debain and Arch)"
             }
         ]
     }
