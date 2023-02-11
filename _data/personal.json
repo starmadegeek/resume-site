@@ -1,7 +1,7 @@
 [
     {
         "name": "Nivyanth Sai Chitturi",
-        "website": "https://github.com/starmadegeek",
+        "website": "https://starmadegeek.github.io/",
         "email": "nivyanth97@gmail.com",
         "email2": "nivyanth97@gmail.com",
         "phone": "+91-9494560798",
@@ -10,35 +10,7 @@
         "github":"https://github.com/starmadegeek",
         "languages": [
             {
-                "language": "C++"
-            },
-            {
-                "language": "Python"
-            },
-            {
-                "language": "JavaScript (ES6), jQuery"
-            },
-            {
-                "language": "Java"
-            },
-            {
-                "language": "C"
-            },
-            {
-                "language": "R"
-            },
-            {
-                "language": "Dart"
-            }
-            ,
-            {
-                "language": "PHP"
-            },
-            {
-                "language": "SQL"
-            },
-            {
-                "language": "HTML, CSS"
+                "language": "C++, Python, JavaScript (ES6), jQuery, Java, C, R, Dart, PHP, SQL, HTML, CSS"
             }
         ],
         "technologies": [
