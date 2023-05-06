@@ -13,7 +13,7 @@
             },
         	{
                 "title": "Data ingestion and  migration",
-                "description": "Developed Kafka producer application to send messages from PostgresDB to Kafka topics in JSON format. Create and maintain of cronjobs to send data of all the properties downstream by publishing data using Kafka. Formulated Python scripts that migrated data into existing schema from a CSV file using pandas and psycopg2.",
+                "description": "Developed Kafka producer application to send messages from PostgresDB to Kafka topics in JSON format. Create and maintainance of cronjobs to send data of all the properties downstream by publishing data using Kafka. Formulated Python scripts that migrated data into existing schema from a CSV file using pandas and psycopg2.",
                 "languages": "Springboot (Java), Python"
             },
             {
