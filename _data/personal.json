@@ -15,14 +15,14 @@
         ],
         "technologies": [
             {
-                "technology": "Spring, Spring Boot, Spring Cloud, RESTfull Architecture "
+                "technology": "Spring, Spring Boot, Spring Cloud, RESTfull Architecture"
             },
             {
-                "technology": "NodeJs, ReactJs, Flutter, Bootstrap, Flask, FastAPI, Docker "
+                "technology": "NodeJs, ReactJs, Flutter, Bootstrap, Flask, FastAPI, Docker"
             },
             
             {
-                "technology": "AWS (EC2, Lambda), GCP, Google Analytics/BiqQuery "
+                "technology": "AWS (EC2, Lambda), GCP, Google Analytics/BiqQuery"
             },
             {
                 "technology": "Windows, Linux (Debain and Arch)"
