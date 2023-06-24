@@ -105,11 +105,12 @@ require("lua/parser.lua")
 
 % Print Projects
 %-------------------------------------------
-\section{\href{https://github.com/starmadegeek}{Projects}}
+\section{{Projects}}
   \resumeSubHeadingListStart
     \directlua{printProjItems("_data/proj.json")}
   \resumeSubHeadingListEnd
-  
+
+\vspace{2pt}
 % Print Skills
 %-------------------------------------------
 \section{Programming Skills}
@@ -117,6 +118,7 @@ require("lua/parser.lua")
     \item{
       \textbf{Languages}{: \directlua{printList("_data/personal.json", "languages", "language")}}
       \hfill
+      \vspace{6pt}
       \break
       \textbf{Technologies}{: \directlua{printList("_data/personal.json", "technologies", "technology")}}
       }
