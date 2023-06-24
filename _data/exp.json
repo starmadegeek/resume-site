@@ -51,7 +51,7 @@
         "details": [
             {
                 "title": "Protrack: Employee management system",
-                "description": "Developing a full stack application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
+                "description": "Developed a full stack application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
                 "languages": "Springboot, MySQL, NodeJs, ReactJs, Docker"
             }
         ]
