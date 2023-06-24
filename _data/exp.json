@@ -4,7 +4,7 @@
         "company_location": "Gurgaon, IN",
         "role": "Software Development Engineer",
         "team": "Data Science",
-        "time_duration": "Jan 2021 - ",
+        "time_duration": "Jan 2020 - Jan 2021",
         "details": [
         	{
                 "title": "Third Party Client Business Insights Portal",
@@ -47,11 +47,11 @@
         "company_location": "Vijayawada, IN",
         "role": "Web development",
         "team": "Freelancing",
-        "time_duration": "May 2018 - June 2018",
+        "time_duration": "May 2022 - June 2022",
         "details": [
             {
                 "title": "Protrack: Employee management system",
-                "description": "Developing a full stack application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC)",
+                "description": "Developing a full stack application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
                 "languages": "Springboot, MySQL, NodeJs, ReactJs, Docker"
             }
         ]
