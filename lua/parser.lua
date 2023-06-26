@@ -45,6 +45,7 @@ function printProjItems(file)
     tex.print("\\resumeSubItem")
     tex.print("{" .. value["title"] .. "}")
     tex.print("{" .. value["description"] .. "}")
+    if (key >= 1) then break end
   end
 end
 
