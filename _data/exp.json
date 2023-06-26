@@ -7,18 +7,23 @@
         "time_duration": "Jan 2020 - Jan 2021",
         "details": [
         	{
-                "title": "Third Party Client Business Insights Portal",
-                "description": "Responsible for API design, development, testing, code quality and deployment of RESTful services for the enterprise product in the business. Interacted with the Product team to finalize the logical flow of the API after understanding business requirements.",
+                "title": "Automated system for Image operations",
+                "description": "Spearheaded the design, development, and maintenance of an automated system for creating, scheduling, and executing tasks related to image ranking and generating image overlays on the cloud. Achieved an 80% reduction in manual workload for the team. Collaborated closely with the team to enhance and refine image ranking and overlay models, ensuring optimal performance and accuracy in delivering high-quality results.",
                 "languages":"Springboot (Java), Python"
             },
         	{
-                "title": "Data ingestion and  migration",
-                "description": "Developed Kafka producer application to send messages from PostgresDB to Kafka topics in JSON format. Create and maintainance of cronjobs to send data of all the properties downstream by publishing data using Kafka. Formulated Python scripts that migrated data into existing schema from a CSV file using pandas and psycopg2.",
+                "title": "Data Ingestion and Database Population",
+                "description": "Designed and implemented a robust REST endpoint for efficient CSV data ingestion, aggregation, and database population from internal analytics teams. Collected their data configurations, created models, and established seamless data population and querying processes. Resulted in clean data, improved storage efficiency, and simplified querying.",
+                "languages": "Springboot (Java), Python"
+            },
+            { 
+                "title": "Business Insights Portals",
+                "description": "Developed multiple REST endpoints tailored to serve data to revenue team dashboards and home owner insights portal. Collected data configuration requirements from stakeholders in JSON format and seamlessly integrated them with various analytics databases such as Google Big Data, PostgreSQL, and Presto. Ensured smooth data flow, interoperability, and accessibility for stakeholders.",
                 "languages": "Springboot (Java), Python"
             },
             {
                 "title": "Miscellaneous",
-                "description": "Performed on-call duties. Leveraged project management software JIRA to track the progress of the project and Git for version control.",
+                "description": "Conducted thorough testing, debugging, and maintenance of REST endpoints. Documented API specifications for seamless integration by other developers. Implemented Git versioning, monitoring, and maintenance of production endpoints.",
                 "languages": ""
             }
         ]
@@ -51,7 +56,7 @@
         "details": [
             {
                 "title": "Protrack: Employee management system",
-                "description": "Developed a full stack application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
+                "description": "Developed a full stack feature rich, multi stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
                 "languages": "Springboot, MySQL, NodeJs, ReactJs, Docker"
             }
         ]

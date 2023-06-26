@@ -6,15 +6,9 @@
         "languages": "PHP, SQL, HTML, CSS, JavaScript, Bootstrap "
     },
     {
-        "title": "Hackfest, IIT ISM Dhanbad 7th Edition",
-        "time_duration": "March 2018",
-        "description": "Created a web application, which has 3 modules driven by Deep Learning, which predicts the price of the crop for the next 6 months, identifies diseases in the crop, and detects weed in the Crop, with an accuracy over 95\\%. Uses CNN. 3rd Position in Nationwide Hackathon.",
+        "title": "Hackfest, IIT ISM Dhanbad 6th and 7th Editions",
+        "time_duration": "March 2018 and March 2017",
+        "description": "7th Edition: Created a web application, which has 3 modules driven by Deep Learning, which predicts the price of the crop for the next 6 months, identifies diseases in the crop, and detects weed in the Crop, with an accuracy over 95\\%. Uses CNN. 3rd Position in Nationwide Hackathon.\n 6th Edition: Created an automatic attendance recorder application, which detects human faces present at assigned places of students using image data. Uses CNN. 10th Position in Nationwide Hackathon.",
         "languages": "Python, Django"
-    },
-    {
-        "title": "Hackfest, IIT ISM Dhanbad 6th Edition",
-        "time_duration": "March 2017",
-        "description": "Created an automatic attendance recorder application, which detects human faces present at assigned places of students using image data. Uses CNN. 10th Position in Nationwide Hackathon.",
-        "languages": "Python"
     }
 ]
