@@ -2,13 +2,19 @@
     {
         "title": "Module Developer, Institute MIS in IIT(ISM) Dhanbad",
         "time_duration": "Jan 2018 - March 2018",
-        "description": "Development of the Training and Placement module in the institute MIS which automates the activities of Career Development Center (CDC) online.Developing the desired features in PHP using CodeIgniter-MVC architecture. Database creation and management of the module using the tools for MariaDB.",
+        "description": "Developed the Training and Placement module for the institute's Management Information System (MIS), automating the Career Development Center (CDC) activities online. Implemented desired features using PHP and CodeIgniter-MVC architecture. Created and managed the module's database using MariaDB tools.",
         "languages": "PHP, SQL, HTML, CSS, JavaScript, Bootstrap "
     },
     {
-        "title": "Hackfest, IIT ISM Dhanbad 6th and 7th Editions",
-        "time_duration": "March 2018 and March 2017",
-        "description": "7th Edition: Created a web application, which has 3 modules driven by Deep Learning, which predicts the price of the crop for the next 6 months, identifies diseases in the crop, and detects weed in the Crop, with an accuracy over 95\\%. Uses CNN. 3rd Position in Nationwide Hackathon.\b 6th Edition: Created an automatic attendance recorder application, which detects human faces present at assigned places of students using image data. Uses CNN. 10th Position in Nationwide Hackathon.",
+        "title": "Hackfest, IIT ISM Dhanbad 7th Edition",
+        "time_duration": "March 2018",
+        "description": "Developed a Deep Learning-driven web application with 3 modules for crop price prediction, crop disease identification, and weed detection, achieving over 95\\% accuracy. Secured 3rd position in a nationwide Hackathon.",
         "languages": "Python, Django"
+    },
+    {
+        "title": "Hackfest, IIT ISM Dhanbad 6th Edition",
+        "time_duration": "March 2017",
+        "description": "Built an image-based automatic attendance recorder application utilizing CNN for detecting student faces at assigned locations. Achieved 10th position in a nationwide Hackathon.",
+        "languages": "Python"
     }
 ]
