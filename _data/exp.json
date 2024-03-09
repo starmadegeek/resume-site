@@ -8,13 +8,13 @@
         "details": [
             {
                 "title": "Protrack: Employee management system",
-                "description": "Responsible for design, development of a full stack feature rich, multi stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
+                "description": "Responsible for design, development and maitenance of a full stack feature rich, multi stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
                 "languages": "Springboot, MySQL, NodeJs, ReactJs, NextJs, Docker, AWS"
             },
             {
                 "title": "Apptrack: Online file/tender tracking system",
-                "description": "Implemented a file tracking system for efficient management of official documents within the corporation, reducing manual workload, identifying processing bottlenecks, and maintaining a comprehensive document flow history for organizational employees.",
-                "languages": "Springboot, MySQL, NodeJs, ReactJs, NextJs, Docker, AWS"
+                "description": "Designed and developed a complete file tracking system for efficient management of official documents within the corporation, reducing manual workload, identifying processing bottlenecks, and maintaining a comprehensive document flow history for organization employees. Implemented features like document auto signing, document storage and document processing queues using AWS infrastructure like S3 storage, SQS etc.",
+                "languages": "Springboot, PostgreSQL, NodeJs, ReactJs, NextJs, Docker, AWS"
             }
         ]
     },
