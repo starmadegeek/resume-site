@@ -1,5 +1,24 @@
 [
     {
+        "company": "Vijayawada Muncipal Corporation",
+        "company_location": "Vijayawada, IN",
+        "role": "Partime Web developer",
+        "team": "IT",
+        "time_duration": "May 2022 - Jan 2024",
+        "details": [
+            {
+                "title": "Protrack: Employee management system",
+                "description": "Responsible for design, development of a full stack feature rich, multi stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
+                "languages": "Springboot, MySQL, NodeJs, ReactJs, NextJs, Docker, AWS"
+            },
+            {
+                "title": "Apptrack: Online file/tender tracking system",
+                "description": "Implemented a file tracking system for efficient management of official documents within the corporation, reducing manual workload, identifying processing bottlenecks, and maintaining a comprehensive document flow history for organizational employees.",
+                "languages": "Springboot, MySQL, NodeJs, ReactJs, NextJs, Docker, AWS"
+            }
+        ]
+    },
+    {
         "company": "OYO Rooms",
         "company_location": "Gurgaon, IN",
         "role": "Software Development Engineer",
@@ -44,20 +63,6 @@
                     "title": "Dashboard management and data supply",
                     "description": "SPOC for all the online conversion and revenue related Automated Dashboards and setting up Triggers for business tracking and alerts, leading numerous RCAs and Business Insights, issues with landing pages, SEO and SEA keyword performance analysis, etc. and using other agency tools like AWS EC2, Lambda functions, GCP cloud functions and Hive data tools.",
                     "languages": "Python, R, ShellScripting, SQL, Excel, Google Analytics"
-            }
-        ]
-    },
-    {
-        "company": "Vijayawada Muncipal Corporation",
-        "company_location": "Vijayawada, IN",
-        "role": "Web development",
-        "team": "Freelancing",
-        "time_duration": "May 2022 - June 2022",
-        "details": [
-            {
-                "title": "Protrack: Employee management system",
-                "description": "Developed a full stack feature rich, multi stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
-                "languages": "Springboot, MySQL, NodeJs, ReactJs, Docker"
             }
         ]
     }
