@@ -1,6 +1,20 @@
 [
     {
-        "company": "Vijayawada Muncipal Corporation",
+    "company": "Techmojo Solutions",
+    "company_location": "Hyderabad, IN",
+    "role": "Member of Technical Staff",
+    "team": "Web Platform",
+    "time_duration": "March 2024 - Present",
+    "details": [
+        {
+            "title": "Java backend development",
+            "description": "Developing high-performance applications for critical systems, ensuring high availability and efficiency. Contributing to the entire development lifecycle, crafting well-designed, testable code, and aiding in software releases.",
+            "languages": "Springboot, MySQL, NodeJs, ReactJs, NextJs, Docker, AWS"
+        }
+    ]
+    },
+    {
+        "company": "Vijayawada Municipal Corporation",
         "company_location": "Vijayawada, IN",
         "role": "Part Time Web developer",
         "team": "IT",
@@ -8,12 +22,12 @@
         "details": [
             {
                 "title": "Protrack: Employee management system",
-                "description": "Responsible for design, development, testing and maintenance of a full stack feature rich, multi stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
+                "description": "Responsible for design, development, testing, and maintenance of a full stack feature-rich, multi-stage application for Vijayawada Municipal Corporation(VMC) to track the progress of their various works and projects which helps in monitoring the performance of the employees (used by more than 100 different employed people of VMC). Led training, supervision, and project handover to a team of two recent graduates.",
                 "languages": "Springboot, MySQL, NodeJs, ReactJs, NextJs, Docker, AWS"
             },
             {
                 "title": "Apptrack: Online file/tender tracking system",
-                "description": "Designed and developed a complete file tracking system for efficient management of official documents within the corporation, reducing manual workload, identifying processing bottlenecks, and maintaining a comprehensive document flow history for organization employees. Implemented features like document auto signing, document storage and document processing queues using AWS infrastructure like S3 storage, SQS etc.",
+                "description": "Designed and developed a complete file tracking system for efficient management of official documents within the corporation, reducing manual workload, identifying processing bottlenecks, and maintaining a comprehensive document flow history for organization employees. Implemented features like document auto signing, document storage, and document processing queues using AWS infrastructure like S3 storage, SQS, etc.",
                 "languages": "Springboot, PostgreSQL, NodeJs, ReactJs, NextJs, Docker, AWS"
             }
         ]
@@ -22,13 +36,13 @@
         "company": "OYO Rooms",
         "company_location": "Gurgaon, IN",
         "role": "Software Development Engineer",
-        "team": "Data Science",
-        "time_duration": "Jan 2020 - Jan 2021",
+        "team": "Core Web",
+        "time_duration": "July 2019 - Jan 2021",
         "details": [
         	{
                 "title": "Automated system for Image operations",
                 "description": "Spearheaded the design, development, and maintenance of an automated system for creating, scheduling, and executing tasks related to image ranking and generating image overlays on the cloud. Achieved an 80\\% reduction in manual workload for the team. Collaborated closely with the team to enhance and refine image ranking and overlay models, ensuring optimal performance and accuracy in delivering high-quality results.",
-                "languages":"Springboot (Java), Python"
+                "languages": "Springboot (Java), Python"
             },
         	{
                 "title": "Data Ingestion and Database Population",
@@ -37,32 +51,18 @@
             },
             { 
                 "title": "Business Insights Portals",
-                "description": "Developed multiple REST endpoints tailored to serve data to revenue team dashboards and home owner insights portal. Collected data configuration requirements from stakeholders in JSON format and seamlessly integrated them with various analytics databases such as Google Big Data, PostgreSQL, and Presto. Ensured smooth data flow, interoperability, and accessibility for stakeholders.",
+                "description": "Developed multiple REST endpoints tailored to serve data to revenue team dashboards and homeowner insights portal. Collected data configuration requirements from stakeholders in JSON format and seamlessly integrated them with various analytics databases such as Google Big Data, PostgreSQL, and Presto. Ensured smooth data flow, interoperability, and accessibility for stakeholders.",
                 "languages": "Springboot (Java), Python"
+            },
+            {
+                    "title": "Dashboard management and data supply",
+                    "description": "SPOC for all the online conversion and revenue-related Automated Dashboards and setting up Triggers for business tracking and alerts, leading numerous RCAs and Business Insights, issues with landing pages, SEO and SEA keyword performance analysis, etc., and using other agency tools like AWS EC2, Lambda functions, GCP cloud functions, and Hive data tools.",
+                    "languages": "Python, R, ShellScripting, SQL, Excel, Google Analytics"
             },
             {
                 "title": "Miscellaneous",
                 "description": "Conducted thorough testing, debugging, and maintenance of REST endpoints. Documented API specifications for seamless integration by other developers. Implemented Git versioning, monitoring, and maintenance of production endpoints.",
                 "languages": ""
-            }
-        ]
-    },
-    {
-        "company": "OYO Rooms",
-        "company_location": "Gurgaon, IN",
-        "role": "Data Support Engineer (Business)",
-        "team": "Conversion",
-        "time_duration": "July 2019 - Jan 2020",
-        "details": [
-            {
-                "title": "Meta channel growth",
-                "description": "Utilised data-driven insights to optimize listings and drive bookings on online travel agencies and meta-search engines. Conducted data analysis, implemented KPIs, developed dashboards, and collaborated with cross-functional teams to drive continuous improvement and informed decision-making.",
-                "languages": "Python, R"
-            },
-            {
-                    "title": "Dashboard management and data supply",
-                    "description": "SPOC for all the online conversion and revenue related Automated Dashboards and setting up Triggers for business tracking and alerts, leading numerous RCAs and Business Insights, issues with landing pages, SEO and SEA keyword performance analysis, etc. and using other agency tools like AWS EC2, Lambda functions, GCP cloud functions and Hive data tools.",
-                    "languages": "Python, R, ShellScripting, SQL, Excel, Google Analytics"
             }
         ]
     }
