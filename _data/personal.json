@@ -10,22 +10,22 @@
         "github":"https://github.com/starmadegeek",
         "languages": [
             {
-                "language": "Java, Python, JavaScript (ES6), SQL, HTML, CSS, jQuery, C++, C, R, PHP, Dart"
+                "language": "Java, Python, JavaScript (ES6), SQL, HTML, CSS, jQuery"
             }
         ],
         "technologies": [
             {
-                "technology": "Spring, Spring Boot, Spring Cloud, RESTfull Architecture"
+                "technology": "Spring, Spring Boot, Spring Cloud, RESTful Architecture"
             },
             {
-                "technology": "NodeJs, ReactJs, Flutter, Bootstrap, Flask, FastAPI, Docker"
+                "technology": "NodeJs, ReactJs, Bootstrap, Flask, FastAPI, Docker"
             },
             
             {
                 "technology": "AWS (EC2, Lambda), GCP, Google Analytics/BiqQuery"
             },
             {
-                "technology": "Windows, Linux (Debain and Arch)"
+                "technology": "Windows, Linux (Debian and Arch)"
             }
         ]
     }
