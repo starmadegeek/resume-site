@@ -6,26 +6,16 @@
         "email2": "nivyanth97@gmail.com",
         "phone": "+91-9494560798",
         "linkedin":"https://www.linkedin.com/in/nivyanth/",
-        "facebook":"",
+        "leetcode":"https://leetcode.com/nivyanth/",
         "github":"https://github.com/starmadegeek",
         "languages": [
             {
-                "language": "Java, Python, JavaScript (ES6), SQL, HTML, CSS, jQuery"
+                "language": "Java, Python, JavaScript (ES6), SQL"
             }
         ],
         "technologies": [
             {
-                "technology": "Spring, Spring Boot, Spring Cloud, RESTful Architecture"
-            },
-            {
-                "technology": "NodeJs, ReactJs, Bootstrap, Flask, FastAPI, Docker"
-            },
-            
-            {
-                "technology": "AWS (EC2, Lambda), GCP, Google Analytics/BiqQuery"
-            },
-            {
-                "technology": "Windows, Linux (Debian and Arch)"
+                "technology": "Spring, Springboot, RESTful Architecture, Redis, Kafka, MySQL, Nodejs, ReactJs, jQuery, Docker, K8s"
             }
         ]
     }
